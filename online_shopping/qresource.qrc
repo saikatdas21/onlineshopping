@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/onlineshoppingw1.webp</file>
+        <file>image/window2.jpg</file>
+    </qresource>
+</RCC>
